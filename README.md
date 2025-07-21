@@ -1,14 +1,14 @@
 # Retail Supermarket Distribution Analysis
 # TATA Data Analytics Virtual Internship (Forage)
-## Role: Data Analyst / Data Scientist
+## Role: Data Analyst 
 
 ## 📌 Objective
 This project, conducted as part of TATA's virtual internship on Forage, focuses on analyzing the retail distribution of a supermarket chain to uncover performance gaps, identify business improvement areas, and communicate insights via a Power BI dashboard.
 
 ## Tools & Technologies
 - Python: Pandas, NumPy, Matplotlib, Seaborn
-- Power BI: Interactive dashboarding & business visuals
-- Jupyter Notebook: Data preprocessing, EDA
+- Power BI: Interactive dashboarding & business visuals, DAX functions
+- Jupyter Notebook: Data cleaning & preprocessing, EDA
 - Excel: Quick summaries and cross-checks
 
 ## Business Context
@@ -33,4 +33,4 @@ Sales Trend (2011):
 - Dip in December indicates potential stockout or demand taper.
 
 Top Customers:
-Customer ID 14646 and 18102 generated >₹250K combined revenue — showing potential for premium loyalty programs.
+- Customer ID 14646 and 18102 generated >₹250K combined revenue — showing potential for premium loyalty programs.
