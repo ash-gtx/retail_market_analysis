@@ -34,3 +34,5 @@ Sales Trend (2011):
 
 Top Customers:
 - Customer ID 14646 and 18102 generated >₹250K combined revenue — showing potential for premium loyalty programs.
+
+<img width="1635" height="932" alt="image" src="https://github.com/user-attachments/assets/3f7dde39-9dc7-4ac5-a73c-fefa4d66656b" />
